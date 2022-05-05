@@ -11,6 +11,8 @@
 		31FA372E282424220001BDDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FA372D282424220001BDDB /* ContentView.swift */; };
 		31FA3730282424230001BDDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31FA372F282424230001BDDB /* Assets.xcassets */; };
 		31FA3733282424230001BDDB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31FA3732282424230001BDDB /* Preview Assets.xcassets */; };
+		31FA373A2824248D0001BDDB /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FA37392824248D0001BDDB /* User.swift */; };
+		31FA373C282426090001BDDB /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FA373B282426090001BDDB /* Friend.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		31FA372D282424220001BDDB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31FA372F282424230001BDDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31FA3732282424230001BDDB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31FA37392824248D0001BDDB /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		31FA373B282426090001BDDB /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				31FA372D282424220001BDDB /* ContentView.swift */,
 				31FA372F282424230001BDDB /* Assets.xcassets */,
 				31FA3731282424230001BDDB /* Preview Content */,
+				31FA37392824248D0001BDDB /* User.swift */,
+				31FA373B282426090001BDDB /* Friend.swift */,
 			);
 			path = SocialNetwork;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				31FA372E282424220001BDDB /* ContentView.swift in Sources */,
 				31FA372C282424220001BDDB /* SocialNetworkApp.swift in Sources */,
+				31FA373A2824248D0001BDDB /* User.swift in Sources */,
+				31FA373C282426090001BDDB /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
